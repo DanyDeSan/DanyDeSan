@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Dany De San Pedro! 👋
+
+- 📱 I'm a full time iOS Developer
+- 🧪 I'm currently learning elixir
+- 🤖 I'm currently learning android too!
+- ☺️ Pronouns: He/Him
+- ✉️ How to reach me:
+
+[![Twitter: DanyDeSan_](https://img.shields.io/twitter/url?label=%40DanyDeSan_&style=social&url=https%3A%2F%2Ftwitter.com%2FDanyDeSan_)](https://twitter.com/DanyDeSan_)
 
 <!--
 **DanyDeSan/DanyDeSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
