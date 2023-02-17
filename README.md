@@ -1,8 +1,10 @@
 ### Hi, I'm Dany De San Pedro! 👋
 
 - 📱 I'm a full time iOS Developer
-- 🧪 I'm currently learning elixir
-- 🤖 I'm currently learning android too!
+- 👨‍🏫 I enjoy teaching and mentoring
+- ⛸️ I'm learning roller blade skating 
+- 🥾 Hiking newbie
+- 🏃‍♂️ Noob runner
 - ☺️ Pronouns: He/Him
 - ✉️ How to reach me:
 
